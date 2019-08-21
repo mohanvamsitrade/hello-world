@@ -1,2 +1,8 @@
 # hello-world
-Creating first hello world application in GitHub
+
+This is my first use of Github
+
+I am very interested in Machine Learning 
+Starting the same with Python
+
+
